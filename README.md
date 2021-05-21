@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I'm a computer science student and currently learning GitHub
+- I'm mchan0
 
 <!--
 **mhchan0/mhchan0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
